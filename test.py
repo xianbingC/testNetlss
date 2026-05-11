@@ -4,3 +4,4 @@ def entry(opt=None):
   print(str(msg))
   print('此处输入程序代码')
 12313123
+13212312312321
